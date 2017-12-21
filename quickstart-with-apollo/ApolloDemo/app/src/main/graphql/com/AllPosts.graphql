@@ -1,0 +1,7 @@
+query AllPosts {
+  allPosts {
+    id
+    description
+    imageUrl
+  }
+}

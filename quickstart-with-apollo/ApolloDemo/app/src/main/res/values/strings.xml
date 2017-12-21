@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApolloDemo</string>
+    <string name="title_post_list">Posts</string>
+    <string name="title_post_detail">Post Detail</string>
+</resources>
